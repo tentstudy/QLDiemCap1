@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLDiemCap1", "QLDiemCap1\QLDiemCap1.csproj", "{7C64E817-9E59-4A20-8C32-2406ADFC3420}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C64E817-9E59-4A20-8C32-2406ADFC3420}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C64E817-9E59-4A20-8C32-2406ADFC3420}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C64E817-9E59-4A20-8C32-2406ADFC3420}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C64E817-9E59-4A20-8C32-2406ADFC3420}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07CDB7AD-A2B9-4414-B44B-05A31216A8DF}
+	EndGlobalSection
+EndGlobal
