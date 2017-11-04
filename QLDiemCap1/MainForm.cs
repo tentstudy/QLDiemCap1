@@ -86,5 +86,5 @@ namespace QLDiemCap1
         {
             mouseDown = false;
         }
+
     }
-}
