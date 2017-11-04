@@ -87,4 +87,14 @@ namespace QLDiemCap1
             mouseDown = false;
         }
 
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
+}
