@@ -614,42 +614,71 @@
             this.label27.AutoSize = true;
             this.label27.Location = new System.Drawing.Point(920, 422);
             this.label27.Name = "label27";
+<<<<<<< HEAD
             this.label27.Size = new System.Drawing.Size(132, 21);
+=======
+            this.label27.Size = new System.Drawing.Size(106, 17);
+>>>>>>> dadf6ad35044a6fc6092d6175e384f34bbdbe7c7
             this.label27.TabIndex = 26;
             this.label27.Text = "Lường Đình Quân";
             // 
             // label26
             // 
             this.label26.AutoSize = true;
+<<<<<<< HEAD
             this.label26.Location = new System.Drawing.Point(695, 422);
             this.label26.Name = "label26";
             this.label26.Size = new System.Drawing.Size(142, 21);
+=======
+            this.label26.Location = new System.Drawing.Point(695, 405);
+            this.label26.Name = "label26";
+            this.label26.Size = new System.Drawing.Size(115, 17);
+>>>>>>> dadf6ad35044a6fc6092d6175e384f34bbdbe7c7
             this.label26.TabIndex = 25;
             this.label26.Text = "Nguyễn Đức Thành";
             // 
             // label25
             // 
             this.label25.AutoSize = true;
+<<<<<<< HEAD
             this.label25.Location = new System.Drawing.Point(471, 422);
             this.label25.Name = "label25";
             this.label25.Size = new System.Drawing.Size(125, 21);
+=======
+            this.label25.Location = new System.Drawing.Point(471, 405);
+            this.label25.Name = "label25";
+            this.label25.Size = new System.Drawing.Size(102, 17);
+>>>>>>> dadf6ad35044a6fc6092d6175e384f34bbdbe7c7
             this.label25.TabIndex = 24;
             this.label25.Text = "Nguyễn Thế Tiến";
             // 
             // label24
             // 
             this.label24.AutoSize = true;
+<<<<<<< HEAD
             this.label24.Location = new System.Drawing.Point(268, 422);
             this.label24.Name = "label24";
             this.label24.Size = new System.Drawing.Size(87, 21);
+=======
+            this.label24.Location = new System.Drawing.Point(268, 405);
+            this.label24.Name = "label24";
+            this.label24.Size = new System.Drawing.Size(70, 17);
+>>>>>>> dadf6ad35044a6fc6092d6175e384f34bbdbe7c7
             this.label24.TabIndex = 23;
             this.label24.Text = "Ngô Chí Tài";
             // 
             // label23
             // 
+<<<<<<< HEAD
             this.label23.Location = new System.Drawing.Point(21, 422);
             this.label23.Name = "label23";
             this.label23.Size = new System.Drawing.Size(143, 21);
+=======
+            this.label23.AutoSize = true;
+            this.label23.Location = new System.Drawing.Point(21, 405);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(117, 17);
+>>>>>>> dadf6ad35044a6fc6092d6175e384f34bbdbe7c7
             this.label23.TabIndex = 22;
             this.label23.Text = "Nguyễn Đăng Dũng";
             // 
@@ -657,7 +686,11 @@
             // 
             this.pictureBox5.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox5.BackgroundImage")));
             this.pictureBox5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+<<<<<<< HEAD
             this.pictureBox5.Location = new System.Drawing.Point(899, 238);
+=======
+            this.pictureBox5.Location = new System.Drawing.Point(903, 221);
+>>>>>>> dadf6ad35044a6fc6092d6175e384f34bbdbe7c7
             this.pictureBox5.Name = "pictureBox5";
             this.pictureBox5.Size = new System.Drawing.Size(160, 160);
             this.pictureBox5.TabIndex = 21;
@@ -667,7 +700,11 @@
             // 
             this.pictureBox4.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox4.BackgroundImage")));
             this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+<<<<<<< HEAD
             this.pictureBox4.Location = new System.Drawing.Point(679, 238);
+=======
+            this.pictureBox4.Location = new System.Drawing.Point(687, 221);
+>>>>>>> dadf6ad35044a6fc6092d6175e384f34bbdbe7c7
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(160, 160);
             this.pictureBox4.TabIndex = 20;
@@ -677,7 +714,11 @@
             // 
             this.pictureBox3.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox3.BackgroundImage")));
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+<<<<<<< HEAD
             this.pictureBox3.Location = new System.Drawing.Point(445, 238);
+=======
+            this.pictureBox3.Location = new System.Drawing.Point(456, 221);
+>>>>>>> dadf6ad35044a6fc6092d6175e384f34bbdbe7c7
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(160, 160);
             this.pictureBox3.TabIndex = 19;
@@ -687,8 +728,12 @@
             // 
             this.pictureBox2.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox2.BackgroundImage")));
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+<<<<<<< HEAD
             this.pictureBox2.Location = new System.Drawing.Point(225, 238);
 
+=======
+            this.pictureBox2.Location = new System.Drawing.Point(231, 221);
+>>>>>>> dadf6ad35044a6fc6092d6175e384f34bbdbe7c7
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(160, 160);
             this.pictureBox2.TabIndex = 18;
@@ -717,9 +762,15 @@
             // linkLabel1
             // 
             this.linkLabel1.AutoSize = true;
+<<<<<<< HEAD
             this.linkLabel1.Location = new System.Drawing.Point(101, 477);
             this.linkLabel1.Name = "linkLabel1";
             this.linkLabel1.Size = new System.Drawing.Size(79, 21);
+=======
+            this.linkLabel1.Location = new System.Drawing.Point(101, 465);
+            this.linkLabel1.Name = "linkLabel1";
+            this.linkLabel1.Size = new System.Drawing.Size(148, 17);
+>>>>>>> dadf6ad35044a6fc6092d6175e384f34bbdbe7c7
             this.linkLabel1.TabIndex = 15;
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "TentStudy";
@@ -745,7 +796,11 @@
             // label20
             // 
             this.label20.AutoSize = true;
+<<<<<<< HEAD
             this.label20.Location = new System.Drawing.Point(25, 477);
+=======
+            this.label20.Location = new System.Drawing.Point(25, 465);
+>>>>>>> dadf6ad35044a6fc6092d6175e384f34bbdbe7c7
             this.label20.Name = "label20";
             this.label20.Size = new System.Drawing.Size(71, 17);
             this.label20.TabIndex = 12;
@@ -754,7 +809,11 @@
             // label19
             // 
             this.label19.AutoSize = true;
+<<<<<<< HEAD
             this.label19.Location = new System.Drawing.Point(6, 451);
+=======
+            this.label19.Location = new System.Drawing.Point(6, 444);
+>>>>>>> dadf6ad35044a6fc6092d6175e384f34bbdbe7c7
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(52, 17);
             this.label19.TabIndex = 11;
@@ -899,6 +958,7 @@
             this.btnClose.Size = new System.Drawing.Size(37, 24);
             this.btnClose.TabIndex = 11;
             this.btnClose.UseVisualStyleBackColor = true;
+<<<<<<< HEAD
             // 
             // pictureBox1
             // 
@@ -909,6 +969,9 @@
             this.pictureBox1.Size = new System.Drawing.Size(160, 160);
             this.pictureBox1.TabIndex = 17;
             this.pictureBox1.TabStop = false;
+=======
+            this.btnClose.Click += new System.EventHandler(this.btnClose_Click);
+>>>>>>> dadf6ad35044a6fc6092d6175e384f34bbdbe7c7
             // 
             // MainForm
             // 
@@ -945,9 +1008,15 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+<<<<<<< HEAD
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+=======
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+>>>>>>> dadf6ad35044a6fc6092d6175e384f34bbdbe7c7
             this.ResumeLayout(false);
 
         }
